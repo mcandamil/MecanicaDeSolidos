@@ -1,6 +1,7 @@
 ---
 title: Librerías para el Estudio de la Elasticidad Plana en Python y Definición de Variables Simbólicas
 ---
+
 ```python
 #Librería Simbólica SymPy
 import sympy as sp
