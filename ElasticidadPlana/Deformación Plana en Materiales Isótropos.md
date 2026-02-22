@@ -1,3 +1,7 @@
+---
+title: Deformación Plana en Materiales Isótropos
+---
+
 La deformación plana es el concepto de trabajar con solo una deformación longitudinal nula, permitiendo realizar un análisis del elemento en una sola rebanada de toda una sección prismática. Ocurre cuando existe una dimensión mucho más larga que las demás haciendo el elemento alargado.
 Esta deformación plana sucede cuando:
 - No existen cargas aplicadas al eje z.
