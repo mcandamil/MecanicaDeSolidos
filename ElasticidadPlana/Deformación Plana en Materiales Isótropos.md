@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Deformación Plana en Materiales Isótropos
 ---
 
