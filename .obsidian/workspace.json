@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "9db8e60e42c9e950",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0fd3fb4e2eef40e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a9c582ee11168d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElasticidadPlana/Librerías para el Estudio de la Elasticidad Plana en Python y Definición de Variables Simbólicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Librerías para el Estudio de la Elasticidad Plana en Python y Definición de Variables Simbólicas"
+            }
+          },
+          {
+            "id": "53dc05a74ec977f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElasticidadPlana/Tensión Plana En Materiales Isótropos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tensión Plana En Materiales Isótropos"
+            }
+          },
+          {
+            "id": "8bc0aa5e46a94ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElasticidadPlana/Deformación Plana en Materiales Isótropos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deformación Plana en Materiales Isótropos"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d884ba59fd10e8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ddadd4e15eb07d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "916384436364d0cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "5c6298dde9dafc64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ba8b353ff0a0a0bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "119701d479f88e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c24607af10f93f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b369537f87711554",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ElasticidadPlana/Tensión Plana En Materiales Isótropos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Tensión Plana En Materiales Isótropos"
+            }
+          },
+          {
+            "id": "9f3f0efc4ab0f33d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ElasticidadPlana/Tensión Plana En Materiales Isótropos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Tensión Plana En Materiales Isótropos"
+            }
+          },
+          {
+            "id": "f7abff1fb41359b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0c50ec4a42a04411",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "be2adef94aa1ab98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ElasticidadPlana/Tensión Plana En Materiales Isótropos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Tensión Plana En Materiales Isótropos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "53dc05a74ec977f0",
+  "lastOpenFiles": [
+    "ElasticidadPlana/Librerías para el Estudio de la Elasticidad Plana en Python y Definición de Variables Simbólicas.md",
+    "ElasticidadPlana/Tensión Plana En Materiales Isótropos.md",
+    "ElasticidadPlana/Deformación Plana en Materiales Isótropos.md",
+    "ElasticidadPlana/ref.img/PlaneStrain.png",
+    "ElasticidadPlana/ref.img/PoissonRatio.png",
+    "ElasticidadPlana/ref.img/PoissonRatio.jpg",
+    "Librerías y Definición de Variables Simbólicas.md",
+    "ElasticidadPlana"
+  ]
+}
