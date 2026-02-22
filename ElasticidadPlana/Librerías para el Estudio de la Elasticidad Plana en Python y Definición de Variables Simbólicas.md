@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Librerías para el Estudio de la Elasticidad Plana en Python y Definición de Variables Simbólicas
 ---
 
