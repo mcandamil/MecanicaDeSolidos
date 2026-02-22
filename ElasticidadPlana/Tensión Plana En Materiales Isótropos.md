@@ -1,3 +1,6 @@
+---
+title: Tensión Plana en Materiales Isótropos
+---
 La tensión plana es un estado de esfuerzos específico cuando se anula (o se desprecia) solo uno de los esfuerzos principales de un sólido. Por lo tanto ocurre en elementos con una dimensión muy pequeña respecto a las demás (placas, muros grandes, etc.).
 Esta tensión plana sucede cuando:
 - No existen cargas aplicadas en el eje z.
